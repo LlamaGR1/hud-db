@@ -1,0 +1,37 @@
+{
+  "name": "ViviHUD",
+  "author": "sparkless",
+  "releaseDate": "2025-05-26",
+  "distinguishedFromParent": false,
+  "resources": [
+    "https://static.tf2huds.dev/ViviHUD/img/Screenshot%20(982).png",
+    "https://static.tf2huds.dev/ViviHUD/img/Screenshot%20(973).png",
+    "https://static.tf2huds.dev/ViviHUD/img/Screenshot%20(974).png",
+    "https://static.tf2huds.dev/ViviHUD/img/Screenshot%20(980).png",
+    "https://static.tf2huds.dev/ViviHUD/img/Screenshot%20(977).png",
+    "https://static.tf2huds.dev/ViviHUD/img/Screenshot%20(978).png",
+    "https://static.tf2huds.dev/ViviHUD/img/Screenshot%20(975).png",
+    "https://static.tf2huds.dev/ViviHUD/img/Screenshot%20(976).png"
+  ],
+  "flags": [
+    "menus",
+    "scoreboards",
+    "materials"
+  ],
+  "repo": "https://github.com/LlamaGR1/ViviHUD",
+  "hash": "3c989bb7416441e1ebec6253d25865dd2dfb3384",
+  "prerelease": false,
+  "social": {},
+  "traits": {
+    "os": [
+      "windows",
+      "linux"
+    ],
+    "res": [
+      "16/9"
+    ],
+    "position": [
+      "default"
+    ]
+  }
+}
